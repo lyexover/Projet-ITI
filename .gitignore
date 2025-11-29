@@ -1,0 +1,28 @@
+# Données volumineuses
+*.jpg
+*.jpeg
+*.png
+Images/
+dataset/
+data/Images/
+*.zip
+
+# Fichiers Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modèles
+*.pkl
+*.h5
+
+# Environnement
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
